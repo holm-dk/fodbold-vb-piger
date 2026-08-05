@@ -1,0 +1,8 @@
+<div class="card">
+  <h3>{{ include.title }}</h3>
+  {% if include.lead %}<p class="lead">{{ include.lead }}</p>{% endif %}
+  {% if include.sub %}<p class="sub">{{ include.sub }}</p>{% endif %}
+  {% if include.text %}<p>{{ include.text }}</p>{% endif %}
+  {% if include.email %}<p><a href="mailto:{{ include.email }}">{{ include.email }}</a></p>{% endif %}
+  {% if include.tel %}<p><a href="tel:{{ include.tel | remove: " " }}">{{ include.tel }}</a></p>{% endif %}
+</div>

@@ -1,0 +1,128 @@
+:root {
+  --blue: #12417f;
+  --ink: #1b2027;
+  --muted: #5b6572;
+  --line: #dde3ea;
+  --bg: #f4f6f8;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Source Sans 3", Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap { max-width: 760px; margin: 0 auto; padding: 0 20px 80px; }
+
+.site-head {
+  display: flex; flex-direction: column; gap: 22px;
+  padding: 40px 0 28px; border-bottom: 3px solid var(--blue);
+}
+.brand { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
+.brand img { display: block; }
+.brand h1 {
+  margin: 0; font-size: 30px; font-weight: 700;
+  letter-spacing: -0.01em; color: var(--blue);
+}
+.brand p { margin: 2px 0 0; font-size: 16px; color: var(--muted); }
+
+.site-head nav { display: flex; flex-wrap: wrap; gap: 6px 20px; font-size: 15px; font-weight: 600; }
+.site-head nav a { text-decoration: none; }
+
+a { color: var(--blue); }
+a:hover { color: #0a2a55; }
+
+main h2 {
+  margin: 52px 0 16px;
+  font-size: 13px; font-weight: 700;
+  letter-spacing: 0.09em; text-transform: uppercase;
+  color: var(--blue);
+}
+main h2:first-of-type { margin-top: 40px; }
+
+main p { max-width: 62ch; text-wrap: pretty; }
+main > p:first-of-type { font-size: 19px; }
+main em { color: var(--muted); font-size: 15px; font-style: normal; }
+
+main strong { color: var(--ink); }
+
+table {
+  width: 100%; border-collapse: collapse;
+  background: #fff; border: 1px solid var(--line);
+  font-size: 15px; margin: 0 0 8px;
+  display: table;
+}
+th {
+  background: var(--blue); color: #fff; text-align: left;
+  font-size: 13px; font-weight: 600; letter-spacing: 0.04em;
+  text-transform: uppercase; padding: 12px 20px;
+}
+td { padding: 12px 20px; border-top: 1px solid #eef1f5; }
+tbody tr:nth-child(even) td { background: #fafbfc; }
+th[style*="right"], td[style*="right"] { font-family: "IBM Plex Mono", monospace; }
+
+.table-scroll { overflow-x: auto; }
+
+/* beløbs- og saldokolonnen brydes ikke */
+table.totals th[style*="right"], table.totals td[style*="right"] { white-space: nowrap; }
+/* beløbs- og saldokolonne med fast bredde */
+table.totals th:nth-child(3), table.totals td:nth-child(3),
+table.totals th:nth-child(4), table.totals td:nth-child(4) { width: 110px; }
+/* saldo fremhæves let */
+table.totals td:nth-child(4) { color: var(--muted); }
+/* datokolonnen i monospace, så cifrene flugter */
+table.totals td:first-child { font-family: "IBM Plex Mono", monospace; font-size: 14px; white-space: nowrap; }
+/* noter: grå linje under posteringen */
+table.totals td em {
+  display: block; margin-top: 2px;
+  color: var(--muted); font-size: 14px; font-style: normal;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 14px;
+  align-items: start;
+  margin: 0 0 8px;
+}
+.card {
+  background: #fff;
+  border: 1px solid var(--line);
+  padding: 18px 20px;
+}
+.card h3 { margin: 0 0 4px; font-size: 17px; font-weight: 700; color: var(--ink); }
+.card p { margin: 0; max-width: none; font-size: 16px; line-height: 1.55; color: #3d4652; }
+.card p + p { margin-top: 2px; }
+.card .lead { font-size: 16px; color: #3d4652; }
+.card .sub { font-size: 15px; color: var(--muted); }
+
+hr { border: 0; border-top: 1px solid var(--line); margin: 64px 0 22px; }
+
+footer, main > hr + p {
+  font-size: 14px; color: #7a838f;
+}
+footer {
+  display: flex; flex-wrap: wrap; gap: 6px 18px;
+  margin-top: 64px; padding-top: 22px; border-top: 1px solid var(--line);
+}
+footer a { text-decoration: none; }
+
+@media (max-width: 560px) {
+  .brand h1 { font-size: 25px; }
+  .wrap { padding: 0 12px 60px; }
+
+  /* holdkassetabellen komprimeres, så den kan læses uden at scrolle sidevers */
+  table.totals { font-size: 13px; }
+  table.totals th { font-size: 11px; letter-spacing: 0.02em; padding: 8px 8px; }
+  table.totals td { padding: 8px; line-height: 1.4; }
+  table.totals td:first-child { font-size: 12px; }
+  table.totals th:nth-child(3), table.totals td:nth-child(3),
+  table.totals th:nth-child(4), table.totals td:nth-child(4) { width: 62px; }
+  table.totals td em { font-size: 12px; }
+}

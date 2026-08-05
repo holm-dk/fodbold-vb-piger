@@ -1,0 +1,13 @@
+title: U14 Piger
+description: Praktisk info for spillere og forældre — Vejgaard Boldspilklub
+lang: da
+
+exclude:
+  - README.md
+
+# Ingen tema-gem: layoutet i _layouts/default.html styrer designet.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
