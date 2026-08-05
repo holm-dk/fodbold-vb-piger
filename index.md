@@ -3,7 +3,7 @@ layout: default
 title: VB U14 Piger
 ---
 
-Se opdaterede træningstider og planlagte kampe i Kampklar
+Se opdaterede træningstider og planlagte kampe i Kampklar (DBU Fodbold app).
 
 ## Træning
 
