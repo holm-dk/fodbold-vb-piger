@@ -10,8 +10,8 @@ Husk at til-/framelde jer i god tid.
 ## Træning
 
 {% include cards-start.html %}
-{% include card.html title="Tirsdag" lead="kl. 17:00 - 18:30" sub="Mødetid: 16:50 (på banerne)" %}
-{% include card.html title="Torsdag" lead="kl. 17:00 - 18:30" sub="Mødetid: 16:50 (på banerne)" %}
+{% include card.html title="Tirsdag" lead="kl. 17:00 - 18:30" sub="Mødetid: 16:50 (på bane M1/M2)" %}
+{% include card.html title="Torsdag" lead="kl. 17:00 - 18:30" sub="Mødetid: 16:50 (på bane M1/M2)" %}
 {% include cards-end.html %}
 
 ## Holdkasse
