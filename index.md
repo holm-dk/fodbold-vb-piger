@@ -5,11 +5,13 @@ title: VB U14 Piger
 
 Se opdaterede træningstider og planlagte kampe i Kampklar (DBU Fodbold app).
 
+Husk at til-/framelde jer i god tid.
+
 ## Træning
 
 {% include cards-start.html %}
-{% include card.html title="Tirsdag" lead="kl. 16:30 - 18:00" sub="Mødetid: 16:20 (på banerne)" %}
-{% include card.html title="Torsdag" lead="kl. 17:30 - 19:00" sub="Mødetid: 17:20 (på banerne)" %}
+{% include card.html title="Tirsdag" lead="kl. 17:00 - 18:30" sub="Mødetid: 16:50 (på banerne)" %}
+{% include card.html title="Torsdag" lead="kl. 17:00 - 18:30" sub="Mødetid: 16:50 (på banerne)" %}
 {% include cards-end.html %}
 
 ## Holdkasse
@@ -20,7 +22,7 @@ Ansvarlig: Tommy Holm Barnbæk
 
 | Dato | Postering | Beløb | Saldo |
 |---|---|---:|---:|
-| 05/08/2026 | Officielt Vildbjerg Cup holdfoto til deltagende spillere (11 stk) | -385 | 5.584 |
+| 05/08/2026 | Officielt Vildbjerg Cup holdfoto til deltagende spillere (11 stk) | -385 | 5.584 |
 | 06/07/2026 | Holdkasse overdraget fra Lars Lilholt til Tommy Holm Barnbæk | 0 | 5.969 |
 | 20/06/2026 | Ekstra dragt Merjem inkl modtaget egenbetaling på 250 kr | -260 | 5.969 |
 | 12/06/2026 | Udgift træningsdragter | -8.890 | 6.229 |
