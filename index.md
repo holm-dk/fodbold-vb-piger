@@ -14,6 +14,34 @@ Husk at til-/framelde jer i god tid.
 {% include card.html title="Onsdag" lead="kl. 16:00 - 17:25" sub="Mødetid: 15:50 (på B52)" %}
 {% include cards-end.html %}
 
+## Vaskeliste
+
+Listen er sorteret efter, hvilke spillere der er næst i rækken til at vaske spillertøj efter kamp.
+
+I Kampklar er der oprettet en Tøjvask-opgave på kampene, som man frit kan tilmelde sig, og så kommer man i bunden af listen. Vælger man ikke frivilligt, tildeler vi opgaven til den første spiller på listen. Det er selvfølgelig kun spillere, der deltager i kampen, der udtages til vask.
+
+Kontakt os, hvis man ikke har mulighed for at vaske tøjet.
+
+| Spiller | Antal vask |
+|---|---:|
+| Asta Horsfeldt Pilgaard | 0 |
+| Carla Larsen | 0 |
+| Carolina Fillippa Andersen | 0 |
+| Elisabeth Lykkegaard Jensen | 0 |
+| Ella Buus Stokbro | 0 |
+| Freja Christiansen | 0 |
+| Ida Marie Hav Vinther | 0 |
+| Johanne Fribert Poulsen | 0 |
+| Julie Uldahl Larsen | 0 |
+| Louise Ringberth | 0 |
+| Lykke Marie Bach Futtrup | 0 |
+| Maja Kristensen | 0 |
+| Merjem Dzanovic | 0 |
+| Wafaa Asman | 1 |
+| Ellen Bamberg-Kjeldal | 1 |
+| Clara Jarlskov Bøgelund | 1 |
+| Aviaja Lynge Pierce | 1 |
+
 ## Holdkasse
 
 Oversigt over holdkassens ind- og udbetalinger.
