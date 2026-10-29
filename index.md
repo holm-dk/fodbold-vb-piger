@@ -37,10 +37,10 @@ Kontakt os, hvis man ikke har mulighed for at vaske tøjet.
 | Elisabeth Lykkegaard Jensen | 0 |
 | Ida Marie Hav Vinther | 0 |
 | Johanne Fribert Poulsen | 0 |
-| Wafaa Asman | 1 |
 | Ellen Bamberg-Kjeldal | 1 |
 | Clara Jarlskov Bøgelund | 1 |
 | Aviaja Lynge Pierce | 1 |
+| Wafaa Asman | 1 |
 
 ## Holdkasse
 
