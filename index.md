@@ -26,17 +26,17 @@ Kontakt os, hvis man ikke har mulighed for at vaske tøjet.
 |---|---:|
 | Asta Horsfeldt Pilgaard | 0 |
 | Carla Larsen | 0 |
-| Carolina Fillippa Andersen | 0 |
-| Elisabeth Lykkegaard Jensen | 0 |
-| Ella Buus Stokbro | 0 |
 | Freja Christiansen | 0 |
-| Ida Marie Hav Vinther | 0 |
-| Johanne Fribert Poulsen | 0 |
 | Julie Uldahl Larsen | 0 |
 | Louise Ringberth | 0 |
 | Lykke Marie Bach Futtrup | 0 |
 | Maja Kristensen | 0 |
 | Merjem Dzanovic | 0 |
+| Ella Buus Stokbro | 0 |
+| Carolina Fillippa Andersen | 0 |
+| Elisabeth Lykkegaard Jensen | 0 |
+| Ida Marie Hav Vinther | 0 |
+| Johanne Fribert Poulsen | 0 |
 | Wafaa Asman | 1 |
 | Ellen Bamberg-Kjeldal | 1 |
 | Clara Jarlskov Bøgelund | 1 |
@@ -93,7 +93,7 @@ Ansvarlig: Tommy Holm Barnbæk
 ## Kontakt
 
 {% include cards-start.html %}
-{% include card.html title="Cheftræner" sub="Ulla Rygaard Sørensen" %}
+{% include card.html title="Cheftræner" sub="Ulla Rygaard Sørensen" tel="42 21 43 15" %}
 {% include card.html title="Holdleder" sub="Søren Jensen" tel="21 40 61 03" %}
 {% include card.html title="Holdleder" sub="Tommy Holm Barnbæk" tel="61 65 48 33" %}
 {% include cards-end.html %}
