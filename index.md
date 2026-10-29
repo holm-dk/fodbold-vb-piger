@@ -18,7 +18,7 @@ Husk at til-/framelde jer i god tid.
 
 Listen er sorteret efter, hvilke spillere der er næst i rækken til at vaske spillertøj efter kamp.
 
-I Kampklar er der oprettet en Tøjvask-opgave på kampene, som man frit kan tilmelde sig, og så kommer man i bunden af listen. Vælger man ikke frivilligt, tildeler vi opgaven til den første spiller på listen. Det er selvfølgelig kun spillere, der deltager i kampen, der udtages til vask.
+I Kampklar er der oprettet en Tøjvask-opgave på kampene, som man frit kan tilmelde sig. Når man har vasket tøj, kommer man i bunden af listen. Vælger man ikke frivilligt, tildeler vi opgaven til den første spiller på listen. Det er selvfølgelig kun spillere, der deltager i kampen, der udtages til vask.
 
 Kontakt os, hvis man ikke har mulighed for at vaske tøjet.
 
