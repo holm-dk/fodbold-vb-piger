@@ -22,6 +22,7 @@ Ansvarlig: Tommy Holm Barnbæk
 
 | Dato | Postering | Beløb | Saldo |
 |---|---|---:|---:|
+| 18/09/2026 | Drikkedunke | -580 | 4.404 |
 | 17/08/2026 | Deltagergebyr, Aabybro Sensommer Cup 2026 | -600 | 4.984 |
 | 05/08/2026 | Officielt Vildbjerg Cup holdfoto til deltagende spillere (11 stk) | -385 | 5.584 |
 | 06/07/2026 | Holdkasse overdraget fra Lars Lilholt til Tommy Holm Barnbæk | 0 | 5.969 |
