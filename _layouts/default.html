@@ -6,6 +6,15 @@
 <title>{{ page.title | default: site.title }}</title>
 <meta name="description" content="{{ site.description }}" />
 <meta name="robots" content="noindex, nofollow, noarchive, noimageindex" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="da_DK" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta property="og:title" content="{{ page.title | default: site.title }}" />
+<meta property="og:description" content="{{ site.description }}" />
+<meta property="og:image" content="{{ '/assets/og-image.png' | absolute_url }}" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="Vejgaard BK logo med teksten U14 Piger" />
 <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon-32.png' | relative_url }}" />
 <link rel="apple-touch-icon" href="{{ '/assets/apple-touch-icon.png' | relative_url }}" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
