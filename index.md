@@ -50,6 +50,7 @@ Ansvarlig: Tommy Holm Barnbæk
 
 | Dato | Postering | Beløb | Saldo |
 |---|---|---:|---:|
+| 01/11/2026 | UV Stævne Frederikshavn - udlæg | -450 | 3.254 |
 | 31/10/2026 | Støvring Julecup - udlæg | -700 | 3.704 |
 | 18/09/2026 | Drikkedunke | -580 | 4.404 |
 | 17/08/2026 | Deltagergebyr, Aabybro Sensommer Cup 2026 | -600 | 4.984 |
