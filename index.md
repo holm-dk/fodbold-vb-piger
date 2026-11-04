@@ -24,8 +24,7 @@ Kontakt os, hvis man ikke har mulighed for at vaske tøjet.
 
 | | Spiller | Antal vask |
 |---|---|---:|
-| **Næste** | Lykke Marie Bach Futtrup | 0 |
-| | Asta Horsfeldt Pilgaard | 0 |
+| **Næste** | Asta Horsfeldt Pilgaard | 0 |
 | | Carla Larsen | 0 |
 | | Freja Christiansen | 0 |
 | | Julie Uldahl Larsen | 0 |
@@ -41,6 +40,7 @@ Kontakt os, hvis man ikke har mulighed for at vaske tøjet.
 | | Clara Jarlskov Bøgelund | 1 |
 | | Aviaja Lynge Pierce | 1 |
 | | Wafaa Asman | 1 |
+| | Lykke Marie Bach Futtrup | 1 |
 
 ## Holdkasse
 
@@ -50,6 +50,7 @@ Ansvarlig: Tommy Holm Barnbæk
 
 | Dato | Postering | Beløb | Saldo |
 |---|---|---:|---:|
+| 03/11/2026 | Himmerland Cup - udlæg | -500 | 2.754 |
 | 01/11/2026 | UV Stævne Frederikshavn - udlæg | -450 | 3.254 |
 | 31/10/2026 | Støvring Julecup - udlæg | -700 | 3.704 |
 | 18/09/2026 | Drikkedunke | -580 | 4.404 |
