@@ -50,6 +50,8 @@ Ansvarlig: Tommy Holm Barnbæk
 
 | Dato | Postering | Beløb | Saldo |
 |---|---|---:|---:|
+| 09/11/2026 | Gistrup Julecup - udlæg | -450 | 2.444 |
+| 09/11/2026 | Støvring Julecup - rabat retur | 140 | 2.894 |
 | 03/11/2026 | Himmerland Cup - udlæg | -500 | 2.754 |
 | 01/11/2026 | UV Stævne Frederikshavn - udlæg | -450 | 3.254 |
 | 31/10/2026 | Støvring Julecup - udlæg | -700 | 3.704 |
