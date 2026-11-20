@@ -24,8 +24,7 @@ Kontakt os, hvis man ikke har mulighed for at vaske tøjet.
 
 | | Spiller | Antal vask |
 |---|---|---:|
-| **Næste** | Carla Larsen | 0 |
-| | Freja Christiansen | 0 |
+| **Næste** | Freja Christiansen | 0 |
 | | Louise Ringberth | 0 |
 | | Maja Kristensen | 0 |
 | | Merjem Dzanovic | 0 |
@@ -41,6 +40,7 @@ Kontakt os, hvis man ikke har mulighed for at vaske tøjet.
 | | Lykke Marie Bach Futtrup | 1 |
 | | Asta Horsfeldt Pilgaard | 1 |
 | | Julie Uldahl Larsen | 1 |
+| | Carla Larsen | 1 |
 
 ## Holdkasse
 
